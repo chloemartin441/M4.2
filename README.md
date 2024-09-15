@@ -1,24 +1,15 @@
-# Web Dev Starter Code
+# M4.2
 
 ## Overview
 
-TODO: Write a project description
+This lab focused on praticiting various CSS skills to create a bird watching site similar to what was provided in the lab document. 
+
+I had issues with the alignment of the pictures, however the site still looks clean.
+
+To run the website, please do a preview of the html and then copy the URL into a browser to see the full page. 
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- CSS Guide: https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/CSS
+- CSS Tips: https://www.webfx.com/blog/web-design/css-style-guides/
+- Shadow Effect: https://www.w3schools.com/css/css3_shadows.asp
